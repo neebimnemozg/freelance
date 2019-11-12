@@ -1,0 +1,202 @@
+1. Youdo:
+
+Курьерские услуги		https://youdo.com/tasks-all-any-courier
+Ремонт и строительство		https://youdo.com/tasks-all-any-clerical
+Грузоперевозки			https://youdo.com/tasks-all-any-trucking
+Уборка и помощь по хозяйству	https://youdo.com/tasks-all-any-house
+Виртуальный помощник		https://youdo.com/tasks-all-any-virtualassistant
+Компьютерная помощь		https://youdo.com/tasks-all-any-computerhelp
+Мероприятия и промо-акции	https://youdo.com/tasks-all-any-promo
+Дизайн				https://youdo.com/tasks-all-any-design
+Web-разработка			https://youdo.com/tasks-all-any-webdevelopment
+Фото- и видео-услуги		https://youdo.com/tasks-all-any-photoshop
+Установка и ремонт техники	https://youdo.com/tasks-all-any-techrepair
+Красота и здоровье		https://youdo.com/tasks-all-any-healthandbeauty
+Ремонт цифровой техники		https://youdo.com/tasks-all-any-electronicrepair
+Юридическая помощь		https://youdo.com/tasks-all-any-legaladvice
+Репетиторы и обучение		https://youdo.com/tasks-all-any-teaching
+Ремонт транспорта		https://youdo.com/tasks-all-any-auto
+
+Все категории			https://youdo.com/tasks-all-any-all
+
+Youdo парсится в одной категории максимум 50 страниц
+
+2. Freenance.ua:
+
+Категория выделяется путём нажатия галочек, можно выбрать сколько угодно категорий, и затем парсить результат. Например, в данной ссылке выбраны "Веб-программирование", "Креатив" и "Менеджмент": https://freelance.ua/?orders=web-development%2Ccreative%2Csales-manager%2Cproject-manager%2Ccontent-manager-management%2Cart-director%2Chr-manager%2Conline-reputation-management
+Всё, что следует в конце строки после специализаций нужно удалить. В данной ссылке из браузера было удалено "&page=1&pc=1"
+
+Все категории - https://freelance.ua/?orders=web-development%2Cprikladnoj-programmist%2Cdatabases%2C1c-programming%2Cqa-testing%2Cgame-programming%2Cembedded-systems%2Cdata-protection%2Cinteractive-applications%2Cplugins-scripts-utilities%2Cweb-proektirovanie%2Cdevelopment-crm-erp%2Csystem-programming%2Cproject-management-development%2Cflash-flex-programming%2Csajt-pod-kljuch%2Conline-shops%2Crefinement-sites%2Cverstka%2Cwap-pda-sites%2Cusability%2Cflash-sites%2Csearch-engines-optimization%2Cseo-audit-saytov%2Ccontext-advertising%2Csmm-seo%2Ce-mail-marketing-seo%2Clead-generation-seo%2Csite-design%2Clogo%2Cbanners%2Cpackaging-design%2Coutdoor-advertising%2Cdesign-of-exhibition-stands%2Cinfographics%2Ctechnical-design%2Ccorporate-identity%2Cdesign-application-interfaces%2Cprinting-layout%2Cdesigner-embroidery-machine%2Cinterface-design%2Ccartography%2Cprint-design%2Cpresentations%2Cindustrial-design%2Ctype-design%2Cverstka-elektronnyih-izdaniy%2Cprepress%2Ccopywriting%2Crewriting%2Carticles%2Ccontent-manager-texts%2Cliterary-translation%2Ctechnical-translation%2Cnews-press-releases%2Cposting%2Cediting-proofreading%2Cdecoding-the-audio-video%2Cresume%2Cslogans%2Cpoems%2Cscripts%2Chelp-manual%2Ctexts-in-foreign-languages%2Cperevod-tekstov-obschey-tematiki%2Cedit-translation%2Cinterpreting%2Ccorrespondence%2Clocalization%2Cvideo-editing%2Caudio-editing%2Cvideo-designs%2CVideoinfografika%2Cvideo-presentations%2CVideographers%2Cspeaker%2Cmusic-and-sounds%2Cstoryboard%2Cdirection%2Cwedding-video%2Csubtitling%2Cpr-managers%2Ce-mail-marketing-advertising-marketing%2Cbusiness-plans%2Csmm-advertising-marketing%2Cinternet-marketolog%2Clead-generation-advertising-marketing%2Cmarket-research%2Ccreative%2Cmedia-planning%2Corganisation-of-events%2Cadvertising-concepts%2Cprocessing-of-information%2Ctelemarketing-i-prodaji-po-telefonu%2Csystem-administrator%2Cdatabase-administration%2Cnetwork-administration%2Cerp-and-crm-integration%2Chumanities%2Cpreschool-education%2Cforeign-languages%2Cpsychologist%2Ctravel%2Cteachers%2Cnapisanie-referatov-kursovyh-diplomov%2Ctechnical-disciplines%2Csales-manager%2Cproject-manager%2Ccontent-manager-management%2Cart-director%2Chr-manager%2Conline-reputation-management%2Carchitecture%2Cinteriors%2Clandscape-design-master-plan%2Cbreadboarding%2Canimation%2Canimation-characters%2Cscripts-for-animation%2C3d-animation%2C3d-pictures%2C3d-modeling%2C3d-characters%2Cvisualization-3d%2Caerography%2Cpainting%2Ccomics%2Cconcept-art%2Cpixel-art%2Cpictures-illustrations%2Chand-made%2Candroid-development%2Cios-development%2Cwindows-phone-development%2CDesign-of-mobile-applications%2Cbusiness-consultancy%2Cbuhgalter-konsultant%2Cvirtual-assistant%2Cpersonnel-records-salary%2Corder-processing%2Ccustomer-service-and-support%2Csupport-by-phone%2Centerprise-management-system%2Cstatistical-analysis%2Ctechnical-support%2Cfinancial-advisor%2Cjurisprudence%2Cinzhener-vodosnabzhenija-kanalizacii%2Cgas-supply%2Cconstructions%2Cmechanical-engineering%2Cinzhener-otoplenie-ventiljacija%2Cdevelopment-of-electronic-systems%2Cinzhener-slabotochnyh-setej-avtomatizacii%2Cestimates%2Ctechnology%2Cdrawings-diagrams%2Celectrics%2Cevents-reports-photographer%2Cfoto-models%2Cindustrial-photography%2Cadvertising-staged-foto%2Cretouching-collages%2Cwedding-photography%2Cart-foto
+
+Freenance.ua парсится полностью
+
+3. Remontnik.ru:
+https://www.remontnik.ru/boards/osteklenie_okna_balkony - пример ссылки. Если вставлять из браузер, нужно правый слэш удалить
+Все категории Ремонтника
+https://www.remontnik.ru/boards/stroitelstvo_domov_kottedzhej
+https://www.remontnik.ru/boards/remont_kvartiry
+https://www.remontnik.ru/boards/remont_kuhni
+https://www.remontnik.ru/boards/kladka_pechej_i_kaminov
+https://www.remontnik.ru/boards/remont_vannoj
+https://www.remontnik.ru/boards/remont_ofisa
+https://www.remontnik.ru/boards/remont_tualeta
+https://www.remontnik.ru/boards/stroitelstvo_ban_i_saun
+https://www.remontnik.ru/boards/stroitelstvo_bassejnov
+https://www.remontnik.ru/boards/stroitelstvo_garazhej
+https://www.remontnik.ru/boards/osteklenie_okna_balkony
+https://www.remontnik.ru/boards/dveri
+https://www.remontnik.ru/boards/krovelnye_raboty
+https://www.remontnik.ru/boards/almaznaya_rezka_i_sverlenie
+https://www.remontnik.ru/boards/betonnye_raboty
+https://www.remontnik.ru/boards/burenie
+https://www.remontnik.ru/boards/stroitelstvo_dorog
+https://www.remontnik.ru/boards/stroitelstvo_zaborov
+https://www.remontnik.ru/boards/zemljanye_raboty
+https://www.remontnik.ru/boards/izoljacionnye_raboty
+https://www.remontnik.ru/boards/uslugi_kamenschikov
+https://www.remontnik.ru/boards/hudozhestvennaja_kovka_i_lite
+https://www.remontnik.ru/boards/izgotovlenie_lestnic
+https://www.remontnik.ru/boards/markizy_i_navesy
+https://www.remontnik.ru/boards/izgotovlenie_i_montazh_metallokonstrukcij
+https://www.remontnik.ru/boards/rolstavni_rollety_sekcionnye_vorota
+https://www.remontnik.ru/boards/svarochnye_raboty
+https://www.remontnik.ru/boards/snos-i-demontazh
+https://www.remontnik.ru/boards/stroitelstvo_srubov
+https://www.remontnik.ru/boards/stoljarnye_i_plotnickie_raboty
+https://www.remontnik.ru/boards/fasadnye_raboty
+https://www.remontnik.ru/boards/stroitelstvo_fundamenta
+https://www.remontnik.ru/boards/shtukaturno_maljarnye_raboty
+https://www.remontnik.ru/boards/obojnye-raboty
+https://www.remontnik.ru/boards/plitochnye_raboty
+https://www.remontnik.ru/boards/gipsokartonnye-raboty
+https://www.remontnik.ru/boards/izgotovlenie_i_montazh_lepniny
+https://www.remontnik.ru/boards/mozaichnye_raboty
+https://www.remontnik.ru/boards/napolnye_pokrytiya
+https://www.remontnik.ru/boards/montazh_potolkov
+https://www.remontnik.ru/boards/ustrojstvo_promyshlennyh_polov
+https://www.remontnik.ru/boards/hudozhestvennaja_rospis_sten
+https://www.remontnik.ru/boards/montazh_stenovyh_panelej
+https://www.remontnik.ru/boards/ustrojstvo_polov_stjazhka_vyravnivanie
+https://www.remontnik.ru/boards/vodosnabzhenie-i-kanalizatsiia
+https://www.remontnik.ru/boards/elektromontazhnye_raboty
+https://www.remontnik.ru/boards/santehnicheskie_raboty
+https://www.remontnik.ru/boards/alternativnye_istochniki_energii
+https://www.remontnik.ru/boards/gazifikacija
+https://www.remontnik.ru/boards/kondicionirovanie_i_ventilyaciya
+https://www.remontnik.ru/boards/lifty_i_eskalatory
+https://www.remontnik.ru/boards/otoplenie
+https://www.remontnik.ru/boards/ohrannye_sistemy_i_kontrol_dostupa
+https://www.remontnik.ru/boards/montazh_sistem_pozharnoj_bezopasnosti
+https://www.remontnik.ru/boards/montazh_sistem_videonabljudenija_i_ohrany
+https://www.remontnik.ru/boards/sistemy_pozharotusheniya
+https://www.remontnik.ru/boards/ustanovka_antenn_podkljuchenie_telefona_interneta
+https://www.remontnik.ru/boards/montazh_teplogo_pola
+https://www.remontnik.ru/boards/montazh_truboprovodov
+https://www.remontnik.ru/boards/sistemy_umnyj_dom
+https://www.remontnik.ru/boards/master_na_chas
+https://www.remontnik.ru/boards/podkljuchenie_bytovoj_tehniki
+https://www.remontnik.ru/boards/ustanovka_i_zamena_zamkov
+https://www.remontnik.ru/boards/klining_uborka_pomeschenij
+https://www.remontnik.ru/boards/chehly_i_pokryvala
+https://www.remontnik.ru/boards/restavracija_vann_emalirovka_vkladyshi
+https://www.remontnik.ru/boards/remont_stiralnoi_mashiny_cat
+https://www.remontnik.ru/boards/remont_kholodilnika_cat
+https://www.remontnik.ru/boards/remont_konditsionera_cat
+https://www.remontnik.ru/boards/remont_pylesosa_cat
+https://www.remontnik.ru/boards/remont_posudomoechnoi_mashiny_cat
+https://www.remontnik.ru/boards/remont_kofemashiny_cat
+https://www.remontnik.ru/boards/remont_shveinoi_mashiny_cat
+https://www.remontnik.ru/boards/remont_gazovoi_kolonki_cat
+https://www.remontnik.ru/boards/remont_gazovoi_plity_cat
+https://www.remontnik.ru/boards/remont_dukhovogo_shkafa_cat
+https://www.remontnik.ru/boards/remont_prochei_bytovoi_tekhniki_cat
+https://www.remontnik.ru/boards/remont_elektroinstrumenta
+https://www.remontnik.ru/boards/remont_benzoinstrumenta
+https://www.remontnik.ru/boards/remont_sadovoi_tekhniki
+https://www.remontnik.ru/boards/remont_snegouborochnoi_tekhniki
+https://www.remontnik.ru/boards/landshaftnyj_dizajn
+https://www.remontnik.ru/boards/naruzhnoe_osveschenie
+https://www.remontnik.ru/boards/ozelenenie
+https://www.remontnik.ru/boards/iskusstvennye_vodoemy_i_prudy
+https://www.remontnik.ru/boards/izgotovlenie_sadovoj_skulptury
+https://www.remontnik.ru/boards/stroitelstvo_fontanov
+https://www.remontnik.ru/boards/dizajn_interera
+https://www.remontnik.ru/boards/inzhenernoe_proektirovanie
+https://www.remontnik.ru/boards/geodezicheskie_raboty
+https://www.remontnik.ru/boards/geologicheskie_izyskaniya
+https://www.remontnik.ru/boards/mezhevanie_i_kadastr
+https://www.remontnik.ru/boards/proektirovanie_zhilyh_domov
+https://www.remontnik.ru/boards/smetnye_raboty
+https://www.remontnik.ru/boards/pereplanirovka_i_soglasovanie
+https://www.remontnik.ru/boards/tehnicheskij_nadzor
+https://www.remontnik.ru/boards/vyvoz_musora_i_snega
+https://www.remontnik.ru/boards/uslugi_perevozki_dostavki
+https://www.remontnik.ru/boards/uborka_territorij
+https://www.remontnik.ru/boards/arenda_oborudovanija
+https://www.remontnik.ru/boards/arenda_stroitelnoj_tehniki
+https://www.remontnik.ru/boards/vysotnye_raboty_promyshlennyj_alpinizm
+https://www.remontnik.ru/boards/izgotovlenie_i_sborka_mebeli
+https://www.remontnik.ru/boards/poshiv_shtor_i_tekstilnyj_dizajn
+https://www.remontnik.ru/boards/stroitelstvo_sten_i_peregorodok
+https://www.remontnik.ru/boards/dekorirovanie_intererov
+https://www.remontnik.ru/boards/zhaljuzi
+https://www.remontnik.ru/boards/fitodizajn
+https://www.remontnik.ru/boards/remont_dvigatelia
+https://www.remontnik.ru/boards/skhod_razval
+https://www.remontnik.ru/boards/shinomontazh
+https://www.remontnik.ru/boards/diagnostika_i_remont_avtomobilia
+https://www.remontnik.ru/boards/avtozvuk
+https://www.remontnik.ru/boards/avtosvarka
+https://www.remontnik.ru/boards/avtosignalizatsiia
+https://www.remontnik.ru/boards/avtostekla
+https://www.remontnik.ru/boards/konditsionery_i_otoplenie
+https://www.remontnik.ru/boards/kuzovnoi_remont
+https://www.remontnik.ru/boards/moika_i_ukhod_za_avto
+https://www.remontnik.ru/boards/parktroniki
+https://www.remontnik.ru/boards/peretiazhka_salona
+https://www.remontnik.ru/boards/pokraska
+https://www.remontnik.ru/boards/remont_akpp
+https://www.remontnik.ru/boards/remont_vykhlopnoi_sistemy
+https://www.remontnik.ru/boards/remont_mkpp
+https://www.remontnik.ru/boards/remont_mototekhniki
+https://www.remontnik.ru/boards/remont_podveski
+https://www.remontnik.ru/boards/remont_rulevogo_upravleniia
+https://www.remontnik.ru/boards/remont_toplivnoi_sistemy
+https://www.remontnik.ru/boards/remont_tormoznoi_sistemy
+https://www.remontnik.ru/boards/tekhpomoshch_na_doroge
+https://www.remontnik.ru/boards/tonirovka_i_avtovinil
+https://www.remontnik.ru/boards/transmissiia
+https://www.remontnik.ru/boards/tiuning_i_dopoborudovanie
+https://www.remontnik.ru/boards/shumoizoliatsiia_avtomobilia
+https://www.remontnik.ru/boards/elektrooborudovanie
+https://www.remontnik.ru/boards/remont_telefonov
+https://www.remontnik.ru/boards/remont_televizorov
+https://www.remontnik.ru/boards/remont_kompiuterov
+https://www.remontnik.ru/boards/remont_drugoi_elektroniki
+https://www.remontnik.ru/boards/remont_igrovykh_pristavok
+https://www.remontnik.ru/boards/remont_noutbukov
+https://www.remontnik.ru/boards/remont_orgtekhniki
+https://www.remontnik.ru/boards/remont_planshetov
+https://www.remontnik.ru/boards/remont_printerov
+https://www.remontnik.ru/boards/remont_proektorov
+https://www.remontnik.ru/boards/remont_sistemy_okhlazhdeniia
+https://www.remontnik.ru/boards/remont_sputnikovogo_tv
+https://www.remontnik.ru/boards/remont_tv_pristavok
+https://www.remontnik.ru/boards/remont_umnykh_chasov
+https://www.remontnik.ru/boards/remont_foto_i_video_tekhniki
+https://www.remontnik.ru/boards/remont_elektronnykh_knig
+
+remontnik.ru парсится полностью
+
+4. Freelance.ru
+https://freelance.ru/projects/ - ссылка для всех проектов (со слешем на конце)
+Ссылки для разных категорий должны иметь следующий вид: https://freelance.ru/projects/?spec=577 (выбирается на сайте в меню слева)
+
+Freelance.ru парсится полностью
+
+5. Fl.ru
+По категориям недоступно, можно искать по словам тут: https://www.fl.ru/search/?type=projects. Например, ссылка для запроса Power BI: https://www.fl.ru/search/?type=projects&search_string=power%2Bbi&action=search
+
+Для всех категорий - https://www.fl.ru/projects/
+
+Fl.ru парсится полностью
